@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600dc55f-9071-479d-9b4b-8fe3306aea4f" name="Changes" comment="First push -  coming soon">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="600dc55f-9071-479d-9b4b-8fe3306aea4f" name="Changes" comment="added web analytics from vercel">
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743208772931</updated>
-      <workItem from="1743208774255" duration="3015000" />
+      <workItem from="1743208774255" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="First push -  coming soon">
       <option name="closed" value="true" />
@@ -103,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743209567914</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added web analytics from vercel">
+      <option name="closed" value="true" />
+      <created>1743242901930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743242901930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First push -  coming soon" />
-    <option name="LAST_COMMIT_MESSAGE" value="First push -  coming soon" />
+    <MESSAGE value="added web analytics from vercel" />
+    <option name="LAST_COMMIT_MESSAGE" value="added web analytics from vercel" />
   </component>
 </project>
